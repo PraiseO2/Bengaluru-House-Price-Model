@@ -2,3 +2,4 @@
 Analysis and Prediction of Bengaluru, India house prices data model.
 .ipynb 
 .pickle
+.py
